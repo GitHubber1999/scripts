@@ -6,7 +6,7 @@ loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/GitHubber1999/be
 ----------------------------------------------------------------------------------------------------------------------------------------
 -- GUI.exe
 
-loadstring(game:HttpGet(https://raw.githubusercontent.com/GitHubber1999/gui.exe/main/gui.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GitHubber1999/gui.exe/main/gui.lua'))()
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
